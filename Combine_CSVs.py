@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Jan 12 06:56:16 2019
-
 @author: Chris
 """
 #credited:
